@@ -10,11 +10,6 @@ Welcome to the **GrpcService** project! This repository contains a gRPC service 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Service](#running-the-service)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
